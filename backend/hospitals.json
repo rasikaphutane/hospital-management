@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hospital A",
+    "location": "Location A",
+    "bedsAvailable": 50,
+    "coordinates": { "lat": 12.9716, "lng": 77.5946 }
+  },
+  {
+    "name": "Hospital B",
+    "location": "Location B",
+    "bedsAvailable": 30,
+    "coordinates": { "lat": 13.0216, "lng": 77.6096 }
+  }
+]
